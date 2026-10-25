@@ -3,17 +3,17 @@ layout: default
 title: William Wootton | Portfolio
 ---
 
-# <span style=color:#8B6FD6>William Wootton
-### <span style=color:#8B6FD6>Computer Science Graduate — Software Design | Algorithms | Databases
+# William Wootton
+### Computer Science Graduate — Software Design | Algorithms | Databases
 ---
 
-## <span style=color:#D8CEF5> About Me</span>
+## About Me
 
 I'm a Computer Science student/graduate with a focus on software engineering, algorithms and data structures, and database design. I found myself throughout a majority of my coursework to want to improve on and do more with what I was given. I feel this portfolio will show my ability to do so. In the Software Engineering program at SNHU I have been apart of many interesting and enjoyable courses including embedded systems, databases, and algorithms. I have created a pseudo-thermostat, along with a multitude of personal projects such as a learning app, and calorie and workout tracking app based on the skills and knowledge garnered throughout my time at SNHU. I have multiple other projects I plan on working on that I have thought of as a way to improve problems, or slow performing taks I have witnessed throughout my experiences. I wanted to create a project where I could encorporate all aspects of software engineering in one single place which is why I chose to combine my improvements into one singular project.
 
 ---
 
-## <span style=color:#C44B5E>Code Review</span>
+## Code Review
 
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;border-radius:8px;">
@@ -27,17 +27,17 @@ I'm a Computer Science student/graduate with a focus on software engineering, al
 </div>
 
 ---
-## <span style=color:#72B391>The Artifact
-### <span style=color:#A9DEC1>AnimalRescue<br>
+## The Artifact
+### AnimalRescue<br>
 *AnimalRescue was a simple Java CLI program displaying different types of rescue animals nearby and showing details. This project built into a shelter like CLI to add, remove, and delete animals from a shelter this only stored information short term where CLI restarts would not save data. Taking these two project I encorperated my own personal experiences when going through the adoption process for my cat and decided to use this knowledge to create an app that helps take away the headache of searching tens or hundreds of different shelters websites to find the animal you are looking for. Like many projects this seems to have continued to grow during development and I was unable to fully implement all features I hoped. I am looking to continue development and continue pursuing the goal for the project in the future as I continue to learn and practice my skills.*
 
 ---
 
-## <span style=color:#87B9F5>Improvements</span>
+## Improvements
 ### [AnimalRescue](https://github.com/WillWootton03/AnimalRescue)
 ---
 
-### <span style=color:#B1CFF2>Improvement 1: Software Design and Engineering</span>
+### Improvement 1: Software Design and Engineering
 
 **Category:** Software Design and Engineering
 **Technologies:** *Python, FastAPI, React*
@@ -48,7 +48,7 @@ I'm a Computer Science student/graduate with a focus on software engineering, al
 
 ---
 
-### <span style=color:#B1CFF2>Improvement 2: Algorithms and Data Structures</span>
+### Improvement 2: Algorithms and Data Structures
 
 **Category:** Algorithms and Data Structures
 **Technologies:** *Python, Geospatial Indexing*
@@ -60,7 +60,7 @@ I'm a Computer Science student/graduate with a focus on software engineering, al
 
 ---
 
-### <span style=color:#B1CFF2>Improvement 3: Databases</span>
+### Improvement 3: Databases
 
 **Category:** Databases
 **Technologies:** *Python, PostrgreSQL*
@@ -72,7 +72,7 @@ I'm a Computer Science student/graduate with a focus on software engineering, al
 
 ---
 
-## <span style=color:#8B6FD6>Contact
+## Contact
 
 - **Email:** [wwootton03@gmail.com](mailto:wwootton03@gmail.com)
 - **GitHub:** [WillWootton03](https://github.com/WillWootton03)
