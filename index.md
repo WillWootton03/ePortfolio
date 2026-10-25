@@ -34,7 +34,7 @@ I'm a Computer Science student/graduate with a focus on software engineering, al
 ---
 
 ## Improvements
-### [AnimalRescue](https://github.com/WillWootton03/AnimalRescue)
+### <a href="https://github.com/WillWootton03/AnimalRescue" target="_blank" rel="noopener noreferrer">AnimalRescue</a>
 ---
 
 ### Improvement 1: Software Design and Engineering
@@ -44,7 +44,7 @@ I'm a Computer Science student/graduate with a focus on software engineering, al
 
 **About this project:** <br>
 *For this project I decided to turn a simple Java CLI program into a fully fledged responsive web application. In order to do this I utilized 2 frameworks, Python's FastAPI for backend routing and logic, and Typescript's React for a SPA frontend. This stack is widely used in startup and early on projects in todays market due to its ease of use and its ability to quickly get a product up and running. FastAPI is one of the premiere backend frameworks for python, it outperforms others like Django when you want flexibility which worked well for our project. React is seen in a majority of frotends todat as it has emergeded as a highly customizeable frontned framework giving users the ability to give their web applications a unique and highly cusomtizeable experience.*<br><br>
-[FastAPI](https://fastapi.tiangolo.com/) | [React](https://react.dev/)
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">FastAPI</a> | <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a>
 
 ---
 
@@ -56,7 +56,7 @@ I'm a Computer Science student/graduate with a focus on software engineering, al
 **About this project:** <br>
 *I have been recently seeing videos explaining how services like Uber and DoorDash are able to quickly and efficiently find drivers and stores in your area for tens of millions of users each day. A trick was used to allow quick matching based on splitting the world into a grid and searching nearby cells instead of matching all coordinates for drivers, stores and users. For this improvement I decided to create my own hashing and searching algorithms over using an already established algorithm package through python. This allowed me to cater to the programs needs well and is tested to accurately find nearby shelters, and pets based on your current location and max distance filter. Splitting the world into a coarse and fine grid allows for even more accurate locations as each cell is roughly 9sq miles.*
 
-[Geospatial Indexing](https://redis.io/glossary/geospatial-indexing/) 
+<a href="https://redis.io/glossary/geospatial-indexing/" target="_blank" rel="noopener noreferrer">Geospatial Indexing</a>
 
 ---
 
@@ -67,7 +67,7 @@ I'm a Computer Science student/graduate with a focus on software engineering, al
 
 **About this project:** <br>
 *For this improvement I took the initial project of AnimalRescue and turned it from a simple static JSON file for storing data to a dynamic database utilizing PostgreSQL and 2 Python Packages being SQLAlchmeny as an ORM (Object-Relational Mappaing) which allows for python code to operate like tradional PSQL commands. And Alembic to handle Data migrations easily. Integrating these tools into the project allows users to add to, update, delete from, and get records for all types of animals and shelters providing a much better user experience and developer experience so developers wont have to update a JSON file to add, remove, or update records.* <br><br>
-[PostgreSQL](https://www.postgresql.org/) | [SQLAlchemy](https://www.sqlalchemy.org/) | [Alembic](https://alembic.sqlalchemy.org/en/latest/)
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">PostgreSQL</a> | <a href="https://www.sqlalchemy.org/" target="_blank" rel="noopener noreferrer">SQLAlchemy</a> | <a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank" rel="noopener noreferrer">Alembic</a>
 
 
 ---
@@ -75,5 +75,5 @@ I'm a Computer Science student/graduate with a focus on software engineering, al
 ## Contact
 
 - **Email:** [wwootton03@gmail.com](mailto:wwootton03@gmail.com)
-- **GitHub:** [WillWootton03](https://github.com/WillWootton03)
-- **LinkedIn:** [William Wootton](https://www.linkedin.com/in/william-wootton/)
+- **GitHub:** <a href="https://github.com/WillWootton03" target="_blank" rel="noopener noreferrer">WillWootton03</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/william-wootton/" target="_blank" rel="noopener noreferrer">William Wootton</a>
